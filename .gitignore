@@ -1,0 +1,32 @@
+# Credentials - NEVER commit these
+auth.json
+secrets.json
+.env
+.env.local
+*.pem
+*.key
+
+# Workspace (cloned repos)
+workspace/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+.tmp/

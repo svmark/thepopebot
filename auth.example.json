@@ -1,0 +1,5 @@
+{
+  "anthropic": { "type": "api_key", "key": "sk-ant-xxxxx" },
+  "openai": { "type": "api_key", "key": "sk-xxxxx" },
+  "groq": { "type": "api_key", "key": "xxxxx" }
+}

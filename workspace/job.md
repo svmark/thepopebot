@@ -1,1 +1,1 @@
-add the operating_system/HEARTBEAT.md to the operating_system/CRONS.json and have it runu every 30 minutes using create job
+Read the file at operating_system/HEARTBEAT.md and complete the tasks described there.

@@ -1,15 +1,10 @@
 Weather for Claremont, CA
-==========================
-Retrieved: Thursday, February 5, 2026 at 06:30 AM UTC
-Local Time: Wednesday, February 4, 2026 at 10:30 PM PST
+Updated: 2026-02-05 07:03 UTC
 
 Current Conditions:
-  Temperature: 64.4°F
-  Humidity: 20%
-  Conditions: Clear sky ☀️
-  Wind Speed: 7.0 mph
-
-Coordinates: 34.10°N, 117.71°W
-Elevation: 361m
-
-Data source: Open-Meteo API
+  ☀️  Clear
+  Temperature: +18°C
+  Feels like: +18°C
+  Humidity: 21%
+  Wind: ↙10km/h
+  Precipitation: 0.0mm

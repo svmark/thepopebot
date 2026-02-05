@@ -1,1 +1,1 @@
-Read the file at operating_system/HEARTBEAT.md and complete the tasks described there.
+Figure out the weather in Las Vegas over the next 7 days. The user wants the actual weather forecast information for Las Vegas, Nevada for the upcoming week. This should include daily forecasts showing temperatures, conditions, and any other relevant weather details.

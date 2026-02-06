@@ -5,5 +5,12 @@
     "type": "command",
     "command": "echo \"pong!\"",
     "enabled": true
+  },
+  {
+    "name": "ping-google",
+    "schedule": "0 0 * * *",
+    "type": "command",
+    "command": "ping -c 1 google.com",
+    "enabled": true
   }
 ]

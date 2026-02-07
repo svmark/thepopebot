@@ -5,5 +5,12 @@
     "type": "command",
     "command": "echo \"pong!\"",
     "enabled": true
+  },
+  {
+    "name": "daily-market-update",
+    "schedule": "0 13 * * *",
+    "type": "agent",
+    "job": "Read and execute the instructions in operating_system/FINANCIAL_ADVISOR.md. Follow all directions specified in that file for the daily market update process.",
+    "enabled": true
   }
 ]
